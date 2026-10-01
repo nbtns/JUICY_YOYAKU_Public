@@ -1,0 +1,6 @@
+title = "JUICY portfolio secret scanning"
+[extend]
+useDefault = true
+[allowlist]
+description = "Generated local dependencies, build output and demonstration database are not distributed"
+paths = ['''(^|/)(node_modules|dist|\.wrangler|artifacts)/''']

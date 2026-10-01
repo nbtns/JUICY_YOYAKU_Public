@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1784692612410,
+      "tag": "0000_unique_nuke",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1784692865240,
+      "tag": "0001_glorious_harrier",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1784692879824,
+      "tag": "0002_reservation_guards",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1784699273984,
+      "tag": "0003_black_tomas",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1784709097101,
+      "tag": "0004_remove_calendar_block_release_logs",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1784722500000,
+      "tag": "0005_remove_reservation_buffer",
+      "breakpoints": true
+    }
+  ]
+}
